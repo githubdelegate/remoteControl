@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">彩虹</string>
+    <string name="menu_settings">Settings</string>
+    <string name="login_input_2rc">请扫描三维码</string>
+    <string name="copyright">彩虹@BrainNET</string>
+    
+    <string name="lable_lamp_a">廊 灯</string>
+	<string name="lable_lamp_b">台 灯</string>
+	<string name="lable_lamp_c">卧室 灯</string>
+	<string name="lable_lamp_d">浴  灯</string>
+	<string name="lable_tv">电视机</string>
+	<string name="lable_air">空 调</string>
+
+</resources>
